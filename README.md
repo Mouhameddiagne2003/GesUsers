@@ -45,12 +45,12 @@ Variables disponibles :
 
 ## Pages principales
 
-- `index.jsp`
-- `WEB-INF/login.jsp`
-- `WEB-INF/dashboard.jsp`
-- `WEB-INF/listerUtilisateurs.jsp`
-- `WEB-INF/ajouterUtilisateur.jsp`
-- `WEB-INF/modifierUtilisateur.jsp`
+
+- `/login`
+- `/dashboard`
+- `/list`
+- `/add`
+- `/update`
 
 ## Fonctionnalites
 
